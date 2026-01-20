@@ -1,5 +1,5 @@
 {
-  "ad_statut": true,
+  "ad_statut": false,
   "ad_type": 1,
   "admob_banner": "ca-app-pub",
   "admob_inter": "ca-app-pub",
